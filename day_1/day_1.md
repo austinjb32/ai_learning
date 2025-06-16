@@ -26,7 +26,7 @@ Used the [Titanic dataset from Kaggle](https://www.kaggle.com/c/titanic/data).
 
 ## 📈 Accuracy
 
-Achieved accuracy of ~XX% on test data.
+Achieved accuracy of ~81% on test data.
 
 ## 📝 What I Learned
 
